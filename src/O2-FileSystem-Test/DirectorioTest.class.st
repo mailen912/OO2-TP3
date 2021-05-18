@@ -10,7 +10,7 @@ Class {
 		'grande',
 		'backup2015'
 	],
-	#category : #'O2-FileSystem-Test-O2-FileSystem-Test'
+	#category : #'O2-FileSystem-Test-O2'
 }
 
 { #category : #'as yet unclassified' }
